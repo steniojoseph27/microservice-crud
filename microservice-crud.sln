@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Shared", "src\infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentation", "{6B07CF89-B6C4-46F5-B3F0-1955689226CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.WebApi", "src\presentation\App.WebApi\App.WebApi.csproj", "{EE3D8036-6935-494F-8D24-DAF90D088094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.WebApi", "src\presentation\App.WebApi\Application.WebApi.csproj", "{EE3D8036-6935-494F-8D24-DAF90D088094}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
